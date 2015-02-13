@@ -1,0 +1,12 @@
+Package: mkclass
+Title: Classification functions
+Version: 0.0.1
+Author: Monika Krzyzanowska <monika.krzyzanowska@barcelonagse.eu>
+Maintainer: Monika Krzyzanowska <monika.krzyzanowska@barcelonagse.eu>
+Description: Machine learning classifiers, such as k-nearest neighbors and discriminant function
+Date: 2015-02-13
+Type: Package
+Depends: R (>= 2.15.0), assertthat
+License: SEE LICENSE
+URL: http://github.com/monika-krzyzanowska/mkclass/
+BuildKeepEmpty: TRUE
